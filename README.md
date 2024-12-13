@@ -5,7 +5,7 @@
 
 -->
 ## About Me
-- 🙋‍♂️ Age: 21y
+- 🙋‍♂️ Age: 22y
 - ✏️ Education: Computer Science, 4th semester at FAESA
 - 💼 Current Work: IT consultant and Web Developer at 3Master Tecnologia
 - 💻 Stack: HTML, CSS, JS, Bootstrap, Astro, Tailwind
