@@ -6,7 +6,7 @@
 -->
 ## About Me
 - 🙋‍♂️ Age: 22y
-- ✏️ Education: Computer Science, 4th semester at FAESA
+- ✏️ Education: Computer Science, 5th semester at UCL
 - 💼 Current Work: IT consultant and Web Developer at 3Master Tecnologia
 - 💻 Stack: HTML, CSS, JS, Bootstrap, Astro, Tailwind
 - 💻 Other skills: Photoshop, Illustrator, Video editing
