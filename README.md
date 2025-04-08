@@ -1,6 +1,5 @@
 # 🙋‍♂️ Hello, my name is Pablo Henrique
 
-# 💫 About Me:
 🙋‍♂️ Age: 22y<br>✏️ Education: Computer Science, 6th semester at UCL<br>💼 Currently Working as an IT Consultant and Front-end developer at 3master Tecnologia<br><br>I believe that Consistent working always wins over intense working. Every day is different, <br>so we can't always do all the things we have to, but we can do something every day. <br>Don't underestimate the long term achievements.
 
 
